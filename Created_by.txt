@@ -1,0 +1,8 @@
+# This Project Made by
+#   Gemian Talasoun Sadek
+#   Mohamed Gamal Nagem
+#   Mohamed Fatehy Mohamed
+#   Hassaan Nabil Hassan
+
+
+# Using textblob Library.
